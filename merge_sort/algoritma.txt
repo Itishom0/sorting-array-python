@@ -1,0 +1,12 @@
+1. Mulai
+2. Masukkan data angka kedalam list.
+3. Periksa jumlah data. Jika hanya 1 atau kurang maka kembalikan data
+4. Bagi list menjadi dua bagian, yaitu kiri dan kanan
+5. Ulangi proses pembagian hingga setiap bagian hanya memiliki 1 elemen
+6. Bandingkan elemen dari bagian kiri dan kanan
+7. Masukkan elemen terkecil ke dalam list hasil
+8. Ulangi perbandingan hingga semua elemen tergabung
+9. Masukkan sisa elemen yang belum tergabung ke dalam list hasil
+10. Kembalikan list yang sudah terurut
+11. Tampilkan hasil pengurutan
+12. Selesai

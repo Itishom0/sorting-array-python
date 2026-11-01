@@ -1,0 +1,13 @@
+1. Buat list yang berisi kumpulan angka yang belum di urutkan
+2. Hitung jumlah data
+3. Buat variabel gap yang berisi panjang list dibagi 2 dan dibulatkan kebawah
+4. Selama gap lebih dari 0
+    - Lakukan pengulangan dari indeks gap hingga indeks terakhir
+    - Simpan nilai indeks saat ini ke variabel temp
+    - Bandingkan nilai temp dengan nilai sebelumnya yang berjarak gap
+    - Jika nilai lebih besar maka tukar nilainya
+    - Ulangi perbandingan sampai posisi yang tepat ditemukan
+    - Masukkan temp ke posisi yang tepat
+    - Bagi gap dengan 2 menggunakan pembagian pembulatan kebawah
+5. Jika gap sudah bernilai 0, proses pengurutan selesai
+6. Tampilkan list yang telah diurutkan

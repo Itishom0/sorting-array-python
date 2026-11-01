@@ -1,0 +1,13 @@
+1. Mulai
+2. Masukkan data angka ke dalam list
+3. Periksa jumlah data. Jika hanya 1 atau kurang, kembalikan data karena sudah terurut
+4. Pilih elemen tengah sebagai pivot
+5. Pisahkan data menjadi tiga kelompok:
+   - Kiri: angka yang lebih kecil dari pivot
+   - Tengah: angka yang sama dengan pivot
+   - Kanan: angka yang lebih besar dari pivot
+6. Lakukan kembali proses pemilihan pivot dan pembagian data pada kelompok kiri dan kanan hingga setiap kelompok hanya memiliki 1 elemen atau kurang
+7. Gabungkan kelompok kiri, tengah, dan kanan menjadi satu list
+8. Kembalikan list yang sudah terurut
+9. Tampilkan hasil pengurutan
+10. Selesai
